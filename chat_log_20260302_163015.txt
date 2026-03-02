@@ -1,0 +1,7 @@
+[2026-03-02 16:30:15] SYSTEM: Server started
+[2026-03-02 16:30:37] SYSTEM: Jamaal1 joined from 127.0.0.1
+[2026-03-02 16:30:55] SYSTEM: Jamaal2 joined from 127.0.0.1
+[2026-03-02 16:31:08] Jamaal1: Hi Jamaal1 how are you doing
+[2026-03-02 16:31:21] Jamaal2: Hi Jamaal1 I am doing great what about you
+[2026-03-02 16:31:28] Jamaal2: by the way I am Jamaal2
+[2026-03-02 16:31:42] Jamaal1: Oh sorry Jamaal2 I am doing fine as well
